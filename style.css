@@ -199,15 +199,15 @@ font-weight: 300;
 line-height: 149.187%; 
 }
 #footer {
-    width: 1440px;
     height: 64px;
     padding: 22px 0px 21px 0px;
     background: #EE4248;
 }
-.footer p {
-    color: #FFF;
+   .footer p{ color: #FFF;
 font-size: 18px;
 font-weight: 400;
+   }
+   .footer {
 display: flex;
 align-items: center;
 justify-content: center;
