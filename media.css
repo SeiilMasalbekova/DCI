@@ -329,6 +329,27 @@ font-size: 16px;
 }
 }
 @media (max-width:376px) {
+#header {
+    width: 376px;
+    overflow: hidden;
+}
+.hero-text h1  {
+    font-size: 28px;
+}
+.hero-text h1 span {
+    font-size: 28px;
+}
+.hero-text p {
+    font-size: 12px;
+}
+.hero-text button {
+    font-size: 11px;
+    padding: 7px 24px;
+}
+.cards button {
+    font-size: 11px;
+    padding: 7px 22px;
+}
 
 }
 @media (max-width:320px) {
