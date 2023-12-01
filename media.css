@@ -353,5 +353,8 @@ font-size: 16px;
 
 }
 @media (max-width:320px) {
-
+#header {
+ width: 320px;   
+ overflow: hidden;
+}
 }
