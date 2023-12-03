@@ -183,9 +183,6 @@ font-size: 18px;
 font-weight: 300;
 line-height: 149.187%; 
 }
-.contact {
-    padding-left: 47px;
-}
 .contact h3 {
     color: #263238;
     font-size: 24px;
@@ -199,7 +196,6 @@ font-weight: 300;
 line-height: 149.187%; 
 }
 #footer {
-    height: 64px;
     padding: 22px 0px 21px 0px;
     background: #EE4248;
 }
